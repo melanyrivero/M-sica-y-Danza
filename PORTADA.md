@@ -1,12 +1,12 @@
 
-# 🎶 Música y Danza
+#  Música y Danza
 ### Portafolio académico | Formación Magisterial
 
 **Año 2026**
 
 ---
 
-## 🌷 Bienvenidos a nuestro repositorio
+##  Bienvenidos a nuestro repositorio
 
 Este espacio reúne las experiencias, producciones y aprendizajes desarrollados durante la unidad curricular **Música y Danza**. Constituye un recorrido compartido de exploración, creación y reflexión sobre el valor de los lenguajes artísticos en la educación.
 
@@ -30,7 +30,7 @@ A través de este portafolio buscamos compartir nuestro proceso de formación, r
 
 En el índice encontrarás los diferentes apartados del repositorio: introducción, fundamentación pedagógica y didáctica, propuestas, materiales de estudio y bibliografía.
 
-### 👉 [ACCEDER AL ÍNDICE COMPLETO](00-Indice/README.md)
+###  [ACCEDER AL ÍNDICE COMPLETO](00-Indice/README.md)
 
 ---
 
