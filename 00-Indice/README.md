@@ -1,19 +1,29 @@
-# 🎶 Música y Danza
 
-### Portafolio académico de Formación Magisterial
+# 📑 Índice
 
-**Institución:** IFD de Tacuarembó "Maestro Dardo Ramos"
+## 🎶 Música y Danza
 
-**Unidad curricular:** Música y Danza
-
+**Institución:** Instituto de Formación Docente de Tacuarembó «Maestro Dardo Ramos»  
+**Carrera:** Magisterio  
+**Unidad curricular:** Música y Danza  
+**Integrantes:** Valentina Petrone y Melany Rivero  
 **Año:** 2026
 
 ---
 
-## 📑 Índice
+### 📚 Contenido del repositorio
 
-1. [Introducción](#introducción)
-2. [Fundamentación](#fundamentación)
-3. [Propuestas](#propuestas-y-actividades)
-4. [Materiales de estudio](#materiales-de-estudio)
-5. [Bibliografía](#bibliografía)
+**01.** [Introducción](../01-Introduccion/README.md)
+
+**02.** [Fundamentación pedagógica y didáctica](../02-Fundamentacion/README.md)
+
+**03.** [Propuestas y actividades](../03-Propuestas/README.md)
+
+**04.** [Materiales de estudio](../04-Materiales-de-estudio/README.md)
+
+**05.** [Bibliografía](../05-Bibliografia/README.md)
+
+---
+
+*Portafolio académico elaborado en el marco de la unidad curricular Música y Danza — 2026.*
+  
