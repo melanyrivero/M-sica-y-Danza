@@ -1,6 +1,6 @@
 ## Introducción
 
-El presente repositorio digital ha sido elaborado por las estudiantes magisteriales **Valentina Petrone y Melany Rivero**, en el marco de la unidad curricular **Música y Danza**, correspondiente a la formación de Maestras en Educación Primaria del Instituto de Formación Docente de Tacuarembó "Maestro Dardo Ramos", durante el año 2026.
+El presente repositorio digital ha sido elaborado por las estudiantes magisteriales **Valentina Petrone y Melany Rivero**, en el marco de la unidad curricular **Música y Danza**, correspondiente a la formación de la carrera Maestro de Educación Primaria del Instituto de Formación Docente de Tacuarembó "Maestro Dardo Ramos", durante el año 2026.
 
 Su propósito es recopilar, organizar y presentar las actividades, producciones, experiencias y reflexiones desarrolladas a lo largo del curso, permitiendo visualizar el recorrido formativo y los aprendizajes construidos en torno a la música y la danza como manifestaciones artísticas, culturales y educativas.
 
