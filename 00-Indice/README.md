@@ -14,5 +14,6 @@
 
 1. [Introducción](#introducción)
 2. [Fundamentación](#fundamentación)
-3. [Propuestas y actividades](#propuestas-y-actividades)
-4. [Bibliografía](#bibliografía)
+3. [Propuestas](#propuestas-y-actividades)
+4. [Materiales de estudio](#materiales-de-estudio)
+5. [Bibliografía](#bibliografía)
