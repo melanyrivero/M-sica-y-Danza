@@ -3,8 +3,8 @@
 
 ## 🎶 Música y Danza
 
-**Institución:** Instituto de Formación Docente de Tacuarembó «Maestro Dardo Ramos»  
-**Carrera:** Magisterio  
+**Institución:** Instituto de Formación Docente de Tacuarembó "Maestro Dardo Ramos"  
+**Carrera:** Maestro de Educación Primaria
 **Unidad curricular:** Música y Danza  
 **Integrantes:** Valentina Petrone y Melany Rivero  
 **Año:** 2026
@@ -17,7 +17,7 @@
 
 **02.** [Fundamentación pedagógica y didáctica](../02-Fundamentacion/README.md)
 
-**03.** [Propuestas y actividades](../03-Propuestas/README.md)
+**03.** [Propuestas](../03-Propuestas/README.md)
 
 **04.** [Materiales de estudio](../04-Materiales-de-estudio/README.md)
 
