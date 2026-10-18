@@ -19,7 +19,7 @@ A través de este portafolio buscamos compartir nuestro proceso de formación, r
 | | |
 |---|---|
 | **Institución** | IFD de Tacuarembó "Maestro Dardo Ramos" |
-| **Carrera** | Magisterio |
+| **Carrera** | Maestro de Educación Primaria |
 | **Unidad curricular** | Música y Danza |
 | **Integrantes** | Valentina Petrone y Melany Rivero |
 | **Año** | 2026 |
